@@ -4,5 +4,5 @@ An embedding is a list of floating point numbers that our models use to represen
 
 The embeddings we return are obtained by averaging the embeddings of each token in the text. The final embedding thus captures semantic information about the entirety of the text.
 
-![alt text](./embeddings.png)
+![alt text](./Images/embeddings.png)
 
